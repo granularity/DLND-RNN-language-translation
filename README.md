@@ -7,4 +7,4 @@ This is the fourth project in Udacity's [Deep Learning Nanodegree Program](https
 In this project, I implemented a machine translation sequence-to-sequence recurrent network for English to French translation on a simple dataset of English and French sentences that can translate new sentences from English to French.
 
 ### My Project Submission
-[Jupyter Notebook](https://github.com/granularity/RNN-language-translation/blob/master/dlnd_language_translation.ipynb)
+[Jupyter Notebook](/dlnd_language_translation.ipynb)
